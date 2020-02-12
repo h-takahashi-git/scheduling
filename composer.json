@@ -3,7 +3,7 @@
     "description": "Task scheduling extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "task", "Scheduling"],
-    "homepage": "https://github.com/laravel-admin-extensions/scheduling",
+    "homepage": "https://github.com/h-takahashi-git/scheduling",
     "license": "MIT",
     "authors": [
         {
