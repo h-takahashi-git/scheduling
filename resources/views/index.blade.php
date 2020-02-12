@@ -29,7 +29,18 @@
     }
 
 </style>
+<div class="box box-default output-box hide">
+    <div class="box-header with-border">
+        <i class="fa fa-terminal"></i>
 
+        <h3 class="box-title">Output</h3>
+    </div>
+    <!-- /.box-header -->
+    <div class="box-body">
+        <pre class="output-body"></pre>
+    </div>
+    <!-- /.box-body -->
+</div>
 <div class="box">
     <!-- /.box-header -->
     <div class="box-body no-padding">
@@ -59,15 +70,3 @@
     <!-- /.box-body -->
 </div>
 
-<div class="box box-default output-box hide">
-    <div class="box-header with-border">
-        <i class="fa fa-terminal"></i>
-
-        <h3 class="box-title">Output</h3>
-    </div>
-    <!-- /.box-header -->
-    <div class="box-body">
-        <pre class="output-body"></pre>
-    </div>
-    <!-- /.box-body -->
-</div>
