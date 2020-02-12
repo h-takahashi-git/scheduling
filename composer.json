@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/scheduling",
+    "name": "h-takahashi-git/scheduling",
     "description": "Task scheduling extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "task", "Scheduling"],
